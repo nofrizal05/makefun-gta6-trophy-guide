@@ -1,8 +1,8 @@
 # Leonida Ledger — GTA VI Trophy Guide & Tracker
 
-[![gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![rank](https://make.fun/badge/rank/nofrizal05/makefun-gta6-trophy-guide.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![reward](https://make.fun/badge/reward/nofrizal05/makefun-gta6-trophy-guide.svg)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/nofrizal05/makefun-gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/nofrizal05/makefun-gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 The best offline guide and tracker for the 55 PlayStation 5 trophies of **Grand Theft Auto VI**: every trophy with its official name, description and grade, a full guide in our own words with sources cited, a checklist saved in your browser, a roadmap to the platinum, and the one missable trophy called out loud.
 
@@ -48,4 +48,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built for [make.fun](https://make.fun)'s "Build the best GTA 6 trophy guide" bounty. If you build your own entry, use referral code `31w76kz9` — https://make.fun/r/31w76kz9
+Built for [make.fun](https://make.fun/?ref=31w76kz9&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)'s "Build the best GTA 6 trophy guide" bounty. If you build your own entry, use referral code `31w76kz9` — https://make.fun/r/31w76kz9
